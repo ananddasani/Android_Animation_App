@@ -6,7 +6,9 @@ An App With Lots of Animation Used on Different Activityes
 
 <img src="app_images/Animation Code.png" width="1000" /><br>
 
-<img src="app_images/Animation PlayBack.mp4" width="300" /><br>
+<!-- <img src="app_images/Animation PlayBack.mp4" width="300" /><br> -->
+
+![](https://github.com/ananddasani/Android_Animation_App/blob/main/app_images/Animation%20PlayBack.gif)
 
 # Code
 
