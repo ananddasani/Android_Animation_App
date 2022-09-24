@@ -1,15 +1,11 @@
 # Android_Animation_App
 An App With Lots of Animation Used on Different Activityes
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
 
 # App Highlight
 
-<img src="app_images/Animation Code.png" width="1000" /><br>
-
-<!-- <img src="app_images/Animation PlayBack.mp4" width="300" /><br> -->
-
-![](https://github.com/ananddasani/Android_Animation_App/blob/main/app_images/Animation%20PlayBack.gif)
-
+![Animation Code](https://user-images.githubusercontent.com/74413402/192093368-9e6b8158-3aa9-4a98-a4ff-047a82369e3b.png)
 # Code
 
 #### splashActivity.java 
